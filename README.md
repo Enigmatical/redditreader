@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Reddit Reader
+
+A very simple demostration app using `Create React App` with `Typescript`.
+
+A simple set of goals included utilizing the `Context` API, `react-final-form`, and `fetch` while building in `Typescript`.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
